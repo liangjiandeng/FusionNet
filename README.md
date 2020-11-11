@@ -38,7 +38,7 @@ you may save them as **.mat format(NxHxWxC format, because they are small size),
 finally read them in python by: sio.loadmat function (see line 61 in the test.py)
 
 
-Note that, we have put all trained models for WV3, QB, Gaofen in the folder of "model". 
+Note that, we have put all trained models for WV3, Gaofen in the folder of "model". 
 
 You may use the trained model for comparisons directly!
 
