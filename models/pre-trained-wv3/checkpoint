@@ -1,0 +1,5 @@
+model_checkpoint_path: "model-200000.ckpt"
+all_model_checkpoint_paths: "../Iter_50000/model-50000.ckpt"
+all_model_checkpoint_paths: "../Iter_100000/model-100000.ckpt"
+all_model_checkpoint_paths: "../Iter_150000/model-150000.ckpt"
+all_model_checkpoint_paths: "model-200000.ckpt"
